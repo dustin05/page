@@ -165,8 +165,19 @@
               "icon": "lucide-list",
               "title": "Outline of Mainpage"
             }
+          },
+          {
+            "id": "7d6636f3d1dc4ed7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
