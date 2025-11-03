@@ -2,12 +2,5 @@
 title: My GitHub Pages Notebook!
 ---
 
-Hello world!
-
-Write some words here!
-
-
-Test words
-
 Test from Obsidian
 
