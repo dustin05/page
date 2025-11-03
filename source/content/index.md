@@ -1,8 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Home
 ---
 
-Test from Obsidian
-
-end of testing
+This is a place for public notes
 
