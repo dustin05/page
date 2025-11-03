@@ -6,7 +6,9 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: [],
+  footer: Component.Footer({
+    links: {
+      leaflet: "https://leaflet.pub/ac3f014f-9a9a-49de-b20d-72ec921f8978",
   }),
 }
 
