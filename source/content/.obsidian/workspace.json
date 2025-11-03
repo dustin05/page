@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mainpage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mainpage"
-            }
-          },
-          {
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mainpage.md",
+                "file": "category-folder/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mainpage"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mainpage.md",
+                "file": "category-folder/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mainpage"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mainpage.md",
+                "file": "category-folder/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mainpage"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mainpage.md",
+                "file": "category-folder/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mainpage"
+              "title": "Outline of index"
             }
           },
           {
@@ -200,6 +185,7 @@
   "lastOpenFiles": [
     "category-folder/Some note.md",
     "category-folder/index.md",
+    "index.md",
     "Mainpage.md",
     "category-folder"
   ]
